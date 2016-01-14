@@ -1,2 +1,2 @@
-# NVim
-My nvim congig and scripts
+# Neo Vim
+My nvim config and scripts
